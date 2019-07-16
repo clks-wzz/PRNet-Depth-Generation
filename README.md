@@ -4,7 +4,7 @@
 
 ## Introduction
 
-A implementaion of depth generation based on [PRNet](https://github.com/YadiraF/PRNet), which was used in the paper ***Exploiting Temporal and Depth Information for Multi-frame Face Anti-spoofing***
+A implementaion of depth generation based on [PRNet](https://github.com/YadiraF/PRNet), which was used in the paper [Exploiting Temporal and Depth Information for Multi-frame Face Anti-spoofing](https://arxiv.org/abs/1811.05118)
 
 ## Prerequisite
 
