@@ -1,0 +1,6 @@
+numpy==1.19.5
+scipy==1.7.3
+Pillow==9.1.1
+scikit-image==0.19.2
+tensorflow==1.15.0
+opencv-python
